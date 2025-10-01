@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wasif Bin Nasir</h1>
 <h3 align="center">🚀 Full Stack Developer | 💡 Lifelong Learner | 🌍 From Pakistan</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wasiiff&label=Profile%20views&color=0e75b6&style=flat" alt="wasiiff" /> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=wasiiff&theme=tokyonight&margin-w=10&margin-h=10" alt="wasiiff" />
-  </a>
-</p>
+
 
 ---
 
@@ -56,6 +51,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wasiiff&theme=tokyo-night" alt="Activity Graph" />
 </p>
 
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wasiiff&label=Profile%20views&color=0e75b6&style=flat" alt="wasiiff" /> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wasiiff&theme=tokyonight&margin-w=10&margin-h=10" alt="wasiiff" />
+  </a>
+</p>
 ---
 
 ### 🏆 Fun Badges
