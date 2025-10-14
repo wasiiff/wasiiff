@@ -182,11 +182,6 @@ Git & GitHub    ███████████████████░   9
 <br><br>
 <p><strong>Currently working on exciting new projects!</strong></p>
 
-**In Pipeline:**
-- E-commerce Platform
-- Social Media Dashboard
-- Task Management App
-- Portfolio CMS
 
 [![Explore](https://img.shields.io/badge/Explore-All%20Projects-orange?style=for-the-badge&logo=github)](https://github.com/wasiiff?tab=repositories)
 
@@ -408,44 +403,12 @@ Git & GitHub    ███████████████████░   9
 
 ---
 
-## 🎵 Currently Vibing To
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31l7zh2kqg72g57wjqg5o4dxcbfi&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
-
----
-
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 💰 Support My Work
-
-<div align="center">
-
-If you like my work and want to support me:
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/wasiiff)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/wasiiff)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/wasiiff)
-
-</div>
-
----
-
 <div align="center">
 
 ### 💭 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-### ⚡ Fun Fact: I can convert coffee to code at a 1:1 ratio ☕➡️💻
 
 **⭐ Show some love by starring my repositories!**
 
@@ -453,6 +416,5 @@ If you like my work and want to support me:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-### 💬 *"Always learning, always growing, always coding!"*
 
 </div>
