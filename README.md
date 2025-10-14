@@ -19,7 +19,7 @@
 
 ## 🎯 About Me
 
-<div align="center">
+<div align="left">
 
 ```typescript
 const wasif = {
