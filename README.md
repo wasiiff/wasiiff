@@ -19,9 +19,7 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-<div align="left">
+<div align="center">
 
 ```typescript
 const wasif = {
@@ -42,8 +40,7 @@ const wasif = {
     },
     
     askMeAbout: [
-        "React", "Next.js", "NestJS", 
-        "System Design", "AI/ML", 
+        "React", "Next.js", "NestJS",
         "Full Stack Architecture"
     ],
     
@@ -67,38 +64,20 @@ const wasif = {
         currentlyExploring: ["LangChain", "LangGraph", "Vector Databases", "OpenAI APIs"]
     },
     
-    architecture: ["Microservices", "MVC", "Serverless", "JAMstack"],
-    
     learning: {
         now: ["Advanced AI/ML", "System Design", "Cloud Architecture"],
         next: ["Kubernetes", "AWS", "Web3"]
     },
-    
-    achievements: {
-        repositories: "50+",
-        contributions: "1000+",
-        projects: "25+ Completed"
-    },
-    
-    dailyRoutine: {
-        morning: "☕ Coffee + Coding",
-        afternoon: "💻 Building Projects",
-        evening: "📚 Learning New Tech",
-        night: "🌙 Open Source Contributions"
-    },
-    
-    funFact: "I debug with console.log and I'm not ashamed! 🐛",
-    challenge: "Building 100 projects in 2025 💯"
+
 };
 ```
 
 </div>
 
-<br clear="right"/>
-
 ---
 
 ## 🔭 Featured Projects
+
 <table>
 <tr>
 <td width="50%">
@@ -107,6 +86,7 @@ const wasif = {
 <img src="https://github.com/user-attachments/assets/2366b69d-188a-4aaf-8a18-2d841944bc01" width="80">
 <br><br>
 <p><strong>AI-powered research tool that revolutionizes information gathering</strong></p>
+
 **Tech Stack:**
 - Next.js
 - NestJS
@@ -130,6 +110,7 @@ const wasif = {
 <img src="https://github.com/user-attachments/assets/2366b69d-188a-4aaf-8a18-2d841944bc01" width="80">
 <br><br>
 <p><strong>Your ultimate career development companion</strong></p>
+
 **Tech Stack:**
 - Next.js
 - NestJS
@@ -176,6 +157,7 @@ const wasif = {
 </td>
 </tr>
 </table>
+
 ---
 
 ## 🛠️ Tech Stack & Tools
@@ -377,12 +359,10 @@ const wasif = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-
 **⭐ Show some love by starring my repositories!**
 
 ![](https://hit.yhype.me/github/profile?user_id=wasiiff)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
 
 </div>
