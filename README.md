@@ -83,7 +83,7 @@ const wasif = {
 <td width="50%">
 <h3 align="center">🤖 Mini Research Assistant</h3>
 <div align="center">
-<img src="https://github.com/user-attachments/assets/2366b69d-188a-4aaf-8a18-2d841944bc01" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 <br><br>
 <p><strong>AI-powered research tool that revolutionizes information gathering</strong></p>
 
@@ -107,7 +107,7 @@ const wasif = {
 <td width="50%">
 <h3 align="center">💼 CareerCraft</h3>
 <div align="center">
-<img src="https://github.com/user-attachments/assets/2366b69d-188a-4aaf-8a18-2d841944bc01" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 <br><br>
 <p><strong>Your ultimate career development companion</strong></p>
 
