@@ -5,10 +5,6 @@
 ### 🚀 Full Stack Developer | 💡 AI Enthusiast | 🌍 Pakistan
 
 [![Profile Views](https://komarev.com/ghpvc/?username=wasiiff&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/wasiiff)
-[![Years Badge](https://badges.pufler.dev/years/wasiiff?style=for-the-badge&color=blue&logo=github)](https://github.com/wasiiff)
-[![Repos Badge](https://badges.pufler.dev/repos/wasiiff?style=for-the-badge&color=success)](https://github.com/wasiiff?tab=repositories)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/wasiiff?style=for-the-badge)](https://github.com/wasiiff)
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 ### A 22 Years Old Web Boxing Champion 🥊
@@ -52,23 +48,18 @@ const wasif = {
         },
         backEnd: {
             js: ["Node.js", "Express", "NestJS"],
-            api: ["RESTful", "GraphQL"],
+            api: ["RESTful"],
             languages: ["JavaScript", "TypeScript", "C++"]
         },
         databases: {
-            sql: ["MySQL", "PostgreSQL"],
+            sql: ["MySQL"],
             noSql: ["MongoDB", "Firebase"]
         },
         devOps: ["Git", "GitHub Actions", "Docker", "Vercel"],
-        tools: ["VS Code", "Postman", "Figma", "Jira"],
-        currentlyExploring: ["LangChain", "LangGraph", "Vector Databases", "OpenAI APIs"]
+        tools: ["VS Code", "Postman"],
+        currentlyExploring: ["LangChain", "LangGraph", "Vector Databases"]
     },
     
-    learning: {
-        now: ["Advanced AI/ML", "System Design", "Cloud Architecture"],
-        next: ["Kubernetes", "AWS", "Web3"]
-    },
-
 };
 ```
 
@@ -186,7 +177,6 @@ const wasif = {
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
@@ -198,9 +188,7 @@ const wasif = {
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </details>
 
@@ -210,7 +198,6 @@ const wasif = {
 
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 </details>
 
@@ -223,11 +210,9 @@ const wasif = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 
 </details>
 
@@ -332,26 +317,6 @@ const wasif = {
 
 ---
 
-## 🎯 2025 Goals
-
-- 🚀 Launch 3 major SaaS products
-- 📚 Master System Design & Architecture
-- 🤝 Contribute to 10+ open source projects
-- 📝 Write 50+ technical blog posts
-- 🎓 Mentor 100+ developers
-- 💼 Build a strong developer community
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
 
 <div align="center">
 
