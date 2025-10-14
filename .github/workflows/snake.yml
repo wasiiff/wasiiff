@@ -1,8 +1,11 @@
 name: Generate Snake
 
+permissions:
+  contents: write   # ✅ allows pushing to branches
+
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight UTC
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
