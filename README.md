@@ -11,7 +11,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-### 💫 Turning Coffee ☕ into Code 💻 | Building the Future, One Commit at a Time 🚀
+### A 22 Years Old Web Boxing Champion 🥊
 
 </div>
 
@@ -98,42 +98,20 @@ const wasif = {
 
 ---
 
-## 🎨 Skills Visualization
-
-<div align="center">
-
-```text
-React.js        ███████████████████░   95%
-Next.js         ██████████████████░░   90%
-TypeScript      ████████████████░░░░   80%
-Node.js         ██████████████████░░   90%
-NestJS          ████████████████░░░░   85%
-MongoDB         ███████████████████░   95%
-Express.js      ██████████████████░░   92%
-Tailwind CSS    ███████████████████░   98%
-Redux           ████████████████░░░░   87%
-Git & GitHub    ███████████████████░   96%
-```
-
-</div>
-
----
-
 ## 🔭 Featured Projects
-
 <table>
 <tr>
 <td width="50%">
 <h3 align="center">🤖 Mini Research Assistant</h3>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<img src="https://github.com/user-attachments/assets/2366b69d-188a-4aaf-8a18-2d841944bc01" width="80">
 <br><br>
 <p><strong>AI-powered research tool that revolutionizes information gathering</strong></p>
-
 **Tech Stack:**
-- Next.js 14 (App Router)
+- Next.js
+- NestJS
 - LangChain & LangGraph
-- OpenAI API
+- Google Gemini API
 - Tailwind CSS
 
 **Features:**
@@ -144,36 +122,31 @@ Git & GitHub    ███████████████████░   9
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel)](https://research-assistant-gui.vercel.app/)
 [![GitHub](https://img.shields.io/badge/View-Code-black?style=for-the-badge&logo=github)](https://github.com/wasiiff)
-
 </div>
 </td>
-
 <td width="50%">
 <h3 align="center">💼 CareerCraft</h3>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://github.com/user-attachments/assets/2366b69d-188a-4aaf-8a18-2d841944bc01" width="80">
 <br><br>
 <p><strong>Your ultimate career development companion</strong></p>
-
 **Tech Stack:**
-- React 18
-- Node.js & Express
+- Next.js
+- NestJS
 - MongoDB
-- Material-UI
+- Tailwind CSS
 
 **Features:**
 - 📝 Resume Builder
+- 💼 Career Tools
 - 🎯 Job Matching
-- 📊 Skills Analysis
-- 🚀 Career Roadmap
+- 📊 Progress Tracking
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=vercel)](https://career-craft-client-beta.vercel.app/)
 [![GitHub](https://img.shields.io/badge/View-Code-black?style=for-the-badge&logo=github)](https://github.com/wasiiff)
-
 </div>
 </td>
 </tr>
-
 <tr>
 <td width="50%">
 <h3 align="center">🎬 More Projects Coming Soon...</h3>
@@ -182,12 +155,9 @@ Git & GitHub    ███████████████████░   9
 <br><br>
 <p><strong>Currently working on exciting new projects!</strong></p>
 
-
 [![Explore](https://img.shields.io/badge/Explore-All%20Projects-orange?style=for-the-badge&logo=github)](https://github.com/wasiiff?tab=repositories)
-
 </div>
 </td>
-
 <td width="50%">
 <h3 align="center">🤝 Open to Collaborate</h3>
 <div align="center">
@@ -202,12 +172,10 @@ Git & GitHub    ███████████████████░   9
 - Mentorship
 
 [![Contact Me](https://img.shields.io/badge/Let's-Connect-blue?style=for-the-badge&logo=gmail)](mailto:wasifbinnasir@gmail.com)
-
 </div>
 </td>
 </tr>
 </table>
-
 ---
 
 ## 🛠️ Tech Stack & Tools
