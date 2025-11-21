@@ -1,16 +1,26 @@
 <div align="center">
 
-# 👋 Hi, I'm Wasif Bin Nasir
+# Wasif Bin Nasir
 
-### 🚀 Full Stack Developer | 💡 AI Enthusiast | 🌍 Pakistan
+### 🚀 Full Stack Developer | 💡 AI Enthusiast | 🇵🇰 Pakistan
 
 [![Profile Views](https://komarev.com/ghpvc/?username=wasiiff&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/wasiiff)
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
 ### A 22 Years Old Web Boxing Champion 🥊
 
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wasiiff/wasiiff/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wasiiff/wasiiff/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wasiiff/wasiiff/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
@@ -246,19 +256,6 @@ const wasif = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wasiiff&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" alt="Contribution Graph" />
 </div>
 
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wasiiff/wasiiff/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wasiiff/wasiiff/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wasiiff/wasiiff/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
 ---
 
 
@@ -285,19 +282,6 @@ const wasif = {
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/wasiiff)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wasiiff)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/wasiiff)
-
-</div>
-
----
-
-## 📈 Coding Stats
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wasiiff&theme=github_dark" alt="Profile Summary" />
 
 </div>
 
