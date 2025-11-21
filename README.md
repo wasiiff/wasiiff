@@ -246,13 +246,6 @@ const wasif = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wasiiff&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF" alt="Contribution Graph" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wasiiff&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
-</div>
 
 ---
 
