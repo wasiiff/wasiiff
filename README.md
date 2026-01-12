@@ -4,81 +4,15 @@
 
 ### 🚀 Full-Stack Engineer • AI • Open Source
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://wasiiff.github.io/Portfolio/) [![Live Demo](https://img.shields.io/badge/Research%20Assistant-Live-brightgreen?style=flat-square&logo=vercel)](https://research-assistant-gui.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/wasif-bin-nasir) [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wasifbinnasir@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://wasif-bin-nasir-amber.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/wasif-bin-nasir) [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wasifbinnasir@gmail.com)
 
 </div>
 
 ---
 
-## 👋 About
-
-I build scalable web apps and AI-powered developer tools. My current focus is on research-oriented AI applications using LangChain, vector databases, and modern full-stack frameworks.
-
-- Location: Faisalabad, Pakistan 🇵🇰
-- Open to: Full-time roles, freelance projects, and open-source collaborations
+> “I build scalable web apps, AI-powered developer tools, and Web3 applications. My current focus is on research-oriented, product-driven AI solutions using LangChain, LangGraph, and blockchain integration with modern full-stack frameworks.”
 
 ---
-
-## ⭐ Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-### 🤖 Mini Research Assistant
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="110" alt="Mini Research Assistant"/>
-</div>
-Live: https://research-assistant-gui.vercel.app/  
-Tech: Next.js · NestJS · LangChain · Google Gemini API · Tailwind  
-Highlights: context-aware research, save/export, multi-source aggregation
-</td>
-<td width="50%">
-### 💼 CareerCraft
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="110" alt="CareerCraft"/>
-</div>
-Live: https://career-craft-client-beta.vercel.app/  
-Tech: Next.js · NestJS · MongoDB · Tailwind  
-Highlights: live preview, PDF/DOCX export, career analytics
-</td>
-</tr>
-<tr>
-<td width="50%">
-### 🎯 Stats-Break
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="110" alt="Stats-Break"/>
-</div>
-Live: https://cric-stat-ai-ui.vercel.app/  
-Tech: Next.js · NestJS · Gemini-powered chatbot
-</td>
-<td width="50%">
-### 🧠 Auto-Grader
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="110" alt="Auto-Grader"/>
-</div>
-Live: https://auto-grader-gui.vercel.app/  
-Tech: Gemini AI, PDF ingestion, CSV export
-</td>
-</tr>
-<tr>
-<td width="50%">
-### 🌿 CuraAI
-Live: https://cura-ai-gui.vercel.app/  
-Highlights: intent-based search, conversational guidance
-</td>
-<td width="50%">
-### 🧪 Kameha-DEX
-Live: https://kamehadex.vercel.app/dex  
-Tech: Wagmi · Viem · Web3 frontend
-</td>
-</tr>
-</table>
-
-View all projects and code on my GitHub: https://github.com/wasiiff?tab=repositories
-
----
-
-## 🛠 Tech Stack & Tools
 
 <details open>
 <summary><b>🎨 Frontend</b></summary>
@@ -125,16 +59,6 @@ View all projects and code on my GitHub: https://github.com/wasiiff?tab=reposito
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wasiiff&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
-</div>
-
----
-
-## 💼 Professional Links
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wasiiff.github.io/Portfolio/) [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://muhammad-wasif-bin-nasir.tiiny.site/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wasifbinnasir@gmail.com)
-
 </div>
 
 ---
