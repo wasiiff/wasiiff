@@ -2,7 +2,7 @@
 
 # Wasif Bin Nasir
 
-### Full-Stack Engineer | AI Enthusiast | Web3 Developer
+### Full-Stack Engineer | AI Enthusiast | Web3
 
 > "I build scalable web apps, AI-powered developer tools, and Web3 applications. My current focus is on research-oriented, product-driven AI solutions using LangChain, LangGraph, and blockchain integration with modern full-stack frameworks."
 
